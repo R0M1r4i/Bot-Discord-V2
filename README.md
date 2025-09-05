@@ -6,9 +6,9 @@ Bienvenido al bot de música más kawaii y avanzado para Discord! 🎵✨
 
 ### 🎌 Comandos Temáticos 
 - **🎵 Openings de Anime** - Reproduce openings épicos aleatoriamente
-- **🎶 Endings Emotivos** - Endings que te harán llorar
+- **🎶 Endings** - Endings que te harán llorar
 - **🎼 Música Vocaloid** - Hatsune Miku, Rin, Len y más
-- **🌸 J-Pop Kawaii** - Música adorable y pegajosa
+- **🌸 J-Pop** - Música adorable y pegajosa
 - **⚡ OSTs Épicos** - Música de peleas y momentos intensos
 - **🎭 Búsqueda por Personaje** - Encuentra música de tu personaje favorito
 
@@ -34,19 +34,7 @@ Bienvenido al bot de música más kawaii y avanzado para Discord! 🎵✨
 - **Gestión de errores robusta** - Recuperación automática
 - **Soporte multiplataforma** - YouTube y más
 
-### 🎨 Interfaz Visual 
-- **Embeds temáticos** con colores únicos para cada acción
-- **Imagen Nanali** integrada en todos los mensajes
-- **Emojis expresivos** para cada función
-- **Barras de volumen visuales** - Representación gráfica
-- **Footers informativos** con consejos útiles
 
-### 📊 Sistema de Estadísticas
-- **Estadísticas del servidor** - Miembros, canales, etc.
-- **Estado del bot** - Latencia, conexión, versión
-- **Información musical** - Cola, estado, calidad
-- **Funciones activas** - Loop, bass boost, etc.
-- **Comandos populares** - Los más utilizados
 
 ## 🎮 Comandos Completos
 
@@ -208,12 +196,6 @@ sudo pacman -S ffmpeg
 - **Timeout inteligente** - 30 segundos por operación
 - **Gestión de memoria** - Limpieza automática
 - **Cache optimizado** - Reducción de latencia
-
-### 🔒 Seguridad y Privacidad
-- **Variables de entorno** - Tokens seguros
-- **Validación de entrada** - Prevención de inyecciones
-- **Límites de tiempo** - Prevención de ataques DoS
-- **Logs seguros** - Sin exposición de datos sensibles
 
 
 ### ❌ Problemas Comunes
