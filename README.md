@@ -1,4 +1,4 @@
-# 🌸 Nanali Music Bot v3.0
+# 🌸 Music Bot v3.0
 
 Bienvenido al bot de música más kawaii y avanzado para Discord! 🎵✨
 
@@ -301,110 +301,7 @@ rm -rf __pycache__/
 python bot.py
 ```
 
-## 📈 Historial de Versiones
 
-### v3.0.1 - "Stability & Performance Fix" 🔧
-**Fecha:** Enero 2025
-
-#### 🚨 Corrección Crítica: Error FFmpeg 4294967274
-- **Problema resuelto:** Bot se conectaba pero no reproducía audio
-- **Configuración FFmpeg optimizada:** Eliminadas opciones problemáticas de codec
-- **yt-dlp simplificado:** Formato `bestaudio/best` que funciona consistentemente
-- **Sistema de validación:** Verificación de URLs antes de reproducir
-- **Timeouts inteligentes:** Prevención de colgados en extracción
-- **Logging mejorado:** Diagnóstico detallado de problemas
-
-#### 🛠️ Mejoras de Estabilidad
-- **Manejo robusto de errores** en todas las funciones críticas
-- **Configuración modular** en `audio_config.py`
-- **Scripts de diagnóstico:** `test_audio.py` y `start_bot.py`
-- **Documentación de problemas:** `TROUBLESHOOTING.md`
-- **Instalación automática** mejorada con verificaciones
-
-#### 🎯 Herramientas de Diagnóstico
-- **Script de pruebas automáticas** para verificar configuración
-- **Inicio con verificaciones** de dependencias y configuración
-- **Archivo .env.example** con configuraciones detalladas
-- **Logging categorizado** por tipo de operación
-- **Validación de URLs** antes de procesamiento
-
-### 🌟 v3.0  🌸
-**Fecha:** Enero 2025
-
-#### 🎵 Nuevas Funcionalidades Musicales
-- **Comandos Otaku:** `!weeb`, `!anime_op`, `!anime_ed`, `!vocaloid`, `!kawaii`, `!epic_anime`, `!character`
-- **Búsqueda Interactiva:** `!search` con selección por reacciones
-- **Control de Repetición:** `!loop` (canción, cola, desactivado)
-- **Ecualizador:** `!bass_boost` con 5 niveles de intensidad
-- **Estadísticas:** `!stats` con información completa del bot
-
-#### 🎧 Mejoras de Audio Premium
-- **Calidad 320kbps** con codec Opus optimizado
-- **Configuración FFmpeg avanzada** para máxima calidad
-- **Control de volumen extendido** (0-150% con modo boost)
-- **Reconexión automática** y manejo robusto de errores
-
-#### 🎨 Mejoras Visuales
-- **Integración completa de nanali.jpg** en todos los embeds
-- **Colores temáticos** para diferentes tipos de comandos
-- **Emojis expresivos** y mensajes personalizados
-- **Footers informativos** con branding consistente
-
-#### 🏗️ Arquitectura Mejorada
-- **Modularización:** `config.py`, `utils.py` para mejor organización
-- **Sistema de configuración avanzado** con presets de calidad
-- **Utilidades centralizadas** para embeds, validación y estadísticas
-- **Manejo de errores robusto** con logging detallado
-
-#### 📚 Documentación y Herramientas
-- **Setup automático:** `setup.py` para instalación simplificada
-- **Documentación técnica:** `TECHNICAL_DOCS.md` para desarrolladores
-- **README actualizado** con guías completas
-- **Archivos de configuración** optimizados
-
-### 🎨 v2.0 - "Visual Enhancement"
-**Fecha:** Diciembre 2024
-
-#### 🎨 Mejoras Visuales Principales
-- Integración de imagen `nanali.jpg` en todos los embeds
-- Embeds ricos con información detallada
-- Colores temáticos para diferentes comandos
-- Footers personalizados con branding
-
-#### 🎵 Funcionalidades Musicales
-- Comando `!nanali` con información del bot
-- Mejoras en `!help_music` con categorización
-- Embeds informativos para todos los comandos
-- Mejor presentación de información de canciones
-
-### 🎵 v1.0 - "Core Release"
-**Fecha:** Noviembre 2024
-
-#### 🎵 Funcionalidades Básicas
-- Reproducción de música desde YouTube
-- Cola de reproducción con comandos básicos
-- Comandos: `!play`, `!skip`, `!queue`, `!stop`, `!leave`
-- Sistema básico de embeds
-- Configuración inicial de yt-dlp y FFmpeg
-
-
-## 🌟 Roadmap Futuro
-
-### 🔮 v4.0 - AI Integration
-- 🤖 Recomendaciones con IA
-- 🎯 Detección automática de géneros
-- 🗣️ Comandos por voz
-- 📊 Analytics avanzados
-
-### 🎮 Funciones Planeadas
-- 🎪 Sistema de favoritos personal
-- 🏆 Ranking de canciones más populares
-- 🎨 Visualizador de audio
-- 📱 App móvil complementaria
-- 🌐 Soporte multi-idioma
-- 🎵 Integración con Spotify/Apple Music
-
----
 
 <div align="center">
 
