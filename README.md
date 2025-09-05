@@ -1,10 +1,10 @@
-# 🌸 Nanali Music Bot v3.0 - Premium Otaku Edition
+# 🌸 Nanali Music Bot v3.0
 
-¡Konnichiwa! Bienvenido al bot de música más kawaii y avanzado para Discord! 🎵✨
+Bienvenido al bot de música más kawaii y avanzado para Discord! 🎵✨
 
 ## 🆕 ¡Nuevas Funcionalidades v3.0!
 
-### 🎌 Comandos Temáticos Otaku
+### 🎌 Comandos Temáticos 
 - **🎵 Openings de Anime** - Reproduce openings épicos aleatoriamente
 - **🎶 Endings Emotivos** - Endings que te harán llorar
 - **🎼 Música Vocaloid** - Hatsune Miku, Rin, Len y más
@@ -34,7 +34,7 @@
 - **Gestión de errores robusta** - Recuperación automática
 - **Soporte multiplataforma** - YouTube y más
 
-### 🎨 Interfaz Visual Kawaii
+### 🎨 Interfaz Visual 
 - **Embeds temáticos** con colores únicos para cada acción
 - **Imagen Nanali** integrada en todos los mensajes
 - **Emojis expresivos** para cada función
@@ -69,7 +69,7 @@
 !loop <song/queue/off>    - Modo repetición avanzado
 ```
 
-### 🌸 Comandos Otaku Especiales
+### 🌸 Comandos Especiales
 ```
 !weeb o !anime o !otaku   - Menú completo de comandos otaku
 !anime_op                 - Opening de anime aleatorio
@@ -328,7 +328,7 @@ python bot.py
 - **Logging categorizado** por tipo de operación
 - **Validación de URLs** antes de procesamiento
 
-### 🌟 v3.0 - "Otaku Premium Edition" 🌸
+### 🌟 v3.0  🌸
 **Fecha:** Enero 2025
 
 #### 🎵 Nuevas Funcionalidades Musicales
@@ -387,36 +387,6 @@ python bot.py
 - Sistema básico de embeds
 - Configuración inicial de yt-dlp y FFmpeg
 
-## 🤝 Contribuciones
-
-¡Tu ayuda es bienvenida para hacer a Nanali aún mejor! 💖
-
-### 🛠️ Cómo Contribuir
-1. **Fork** el repositorio
-2. **Crea** una rama feature (`git checkout -b feature/nueva-funcion`)
-3. **Commit** tus cambios (`git commit -am 'Añade nueva función'`)
-4. **Push** a la rama (`git push origin feature/nueva-funcion`)
-5. **Abre** un Pull Request
-
-### 💡 Ideas para Contribuir
-- 🎵 Más playlists temáticas
-- 🌍 Soporte para más idiomas
-- 🎨 Mejoras visuales
-- 🔧 Optimizaciones de rendimiento
-- 📱 Comandos slash de Discord
-- 🎮 Integración con Spotify
-
-## 📄 Licencia
-
-Este proyecto está bajo la **Licencia MIT**. Ver [LICENSE](LICENSE) para detalles.
-
-## 💖 Agradecimientos Especiales
-
-- 🎌 **Comunidad Otaku** - Por la inspiración constante
-- 🎵 **Discord.py** - Por la excelente librería
-- 🎤 **yt-dlp** - Por el soporte de plataformas
-- 🌸 **Hatsune Miku** - Por ser la inspiración de Nanali
-- 💻 **Contribuidores** - Por hacer esto posible
 
 ## 🌟 Roadmap Futuro
 
@@ -438,9 +408,6 @@ Este proyecto está bajo la **Licencia MIT**. Ver [LICENSE](LICENSE) para detall
 
 <div align="center">
 
-**🌸 ¡Arigatou gozaimasu por usar Nanali Music Bot! 🎵**
-
-*Creado con amor por otakus, para otakus* 💖
 
 [![Discord](https://img.shields.io/badge/Discord-Bot-7289da?style=for-the-badge&logo=discord)](https://discord.com)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=for-the-badge&logo=python)](https://python.org)
