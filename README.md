@@ -215,39 +215,8 @@ sudo pacman -S ffmpeg
 - **Límites de tiempo** - Prevención de ataques DoS
 - **Logs seguros** - Sin exposición de datos sensibles
 
-## 🐛 Solución de Problemas
 
-### 🎵 Problema Principal Resuelto: Error FFmpeg 4294967274
-
-**Síntoma:** El bot se conecta pero no reproduce audio, mostrando:
-```
-ffmpeg process ... terminated with return code of 4294967274
-```
-
-**✅ Solución Implementada en v3.0:**
-
-1. **Configuración FFmpeg Optimizada:**
-   - Eliminadas opciones problemáticas de codec
-   - Simplificadas opciones de reconexión
-   - Añadido manejo robusto de errores
-
-2. **Configuración yt-dlp Mejorada:**
-   - Formato simplificado que funciona consistentemente
-   - Eliminados post-procesadores problemáticos
-   - Añadidos timeouts y reintentos
-
-3. **Sistema de Validación:**
-   - Verificación de URLs antes de reproducir
-   - Detección temprana de problemas
-   - Logging detallado para diagnóstico
-
-**🧪 Verificar la Solución:**
-```bash
-python test_audio.py  # Prueba automática
-python start_bot.py   # Inicio con verificaciones
-```
-
-### ❌ Otros Problemas Comunes
+### ❌ Problemas Comunes
 
 **🔇 Sin audio:**
 ```bash
