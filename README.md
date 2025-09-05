@@ -1,11 +1,11 @@
 # 🌸 Music Bot v3.0
 
-Bienvenido al bot de música más kawaii y avanzado para Discord! 🎵✨
+Bienvenido al bot de música! 🎵✨
 
 ## 🆕 ¡Nuevas Funcionalidades v3.0!
 
 ### 🎌 Comandos Temáticos 
-- **🎵 Openings de Anime** - Reproduce openings épicos aleatoriamente
+- **🎵 Openings** - Reproduce openings épicos aleatoriamente
 - **🎶 Endings** - Endings que te harán llorar
 - **🎼 Música Vocaloid** - Hatsune Miku, Rin, Len y más
 - **🌸 J-Pop** - Música adorable y pegajosa
@@ -181,22 +181,6 @@ sudo pacman -S ffmpeg
    - ✅ Añadir reacciones
    - ✅ Leer historial de mensajes
 
-## 🛠️ Especificaciones Técnicas
-
-### 🎵 Calidad de Audio Premium
-- **Formato:** Opus/M4A/WebM prioritario
-- **Bitrate:** 320kbps máximo
-- **Frecuencia:** 48kHz estéreo
-- **Codec:** libopus con compresión nivel 10
-- **Buffer:** 512kb para estabilidad
-
-### ⚡ Optimizaciones de Rendimiento
-- **Procesamiento asíncrono** - Sin bloqueos
-- **Reconexión automática** - Hasta 3 reintentos
-- **Timeout inteligente** - 30 segundos por operación
-- **Gestión de memoria** - Limpieza automática
-- **Cache optimizado** - Reducción de latencia
-
 
 ### ❌ Problemas Comunes
 
@@ -233,24 +217,6 @@ telnet discord.com 443
 - Verifica la calidad del video original
 
 **Para problemas específicos, consultar:** [`TROUBLESHOOTING.md`](TROUBLESHOOTING.md)
-
-### 🆘 Soporte Avanzado
-
-**Logs detallados:**
-```python
-# Añade al inicio de bot.py
-import logging
-logging.basicConfig(level=logging.DEBUG)
-```
-
-**Reinicio completo:**
-```bash
-# Detén el bot (Ctrl+C)
-# Limpia cache
-rm -rf __pycache__/
-# Reinicia
-python bot.py
-```
 
 
 
